@@ -21,6 +21,6 @@ The content of all open files, excluding unsaved/untitled files and files starti
 
 - Initial release of Copy-Pasta. Features the `Copy All Open Files` command.
 
-For more information or to report issues, visit the [Copy-Pasta GitHub repository](<Your GitHub Repository URL here>).
+For more information or to report issues, visit the [Copy-Pasta GitHub repository](https://github.com/mycelia2/copy-pasta).
 
 **Enjoy!**

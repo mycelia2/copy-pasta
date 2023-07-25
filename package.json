@@ -13,6 +13,8 @@
     "onStartupFinished"
   ],
   "main": "./out/extension.js",
+  "license": "MIT",
+  "publisher": "Equilib",
   "contributes": {
     "commands": [
       {
@@ -28,6 +30,10 @@
     "pretest": "npm run compile && npm run lint",
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mycelia2/copy-pasta.git"
   },
   "devDependencies": {
     "@types/vscode": "^1.80.0",
